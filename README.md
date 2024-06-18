@@ -118,22 +118,22 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
 6. Sơ đồ liên kết
 ## Thêm dữ liệu vào bảng
 -- Add data vào bảng BenhNhan
-    - (N'Tran Thi A', '1982-03-03', N'Nu', N'486 Le Thanh Ton, Quan 3, TP HN','0911225436')
-    - (N'Nguyen Van B', '1982-07-04', N'Nam', N'653 Le Thanh , Quan 7, TP HN', '0911225763')
-    - (N'Nguyen van C', '1982-03-09', N'Nam', N'454 Thanh Ton, Quan 5, TP HN', '0911225123';)
+   - (N'Tran Thi A', '1982-03-03', N'Nu', N'486 Le Thanh Ton, Quan 3, TP HN','0911225436')
+   - (N'Nguyen Van B', '1982-07-04', N'Nam', N'653 Le Thanh , Quan 7, TP HN', '0911225763')
+   - (N'Nguyen van C', '1982-03-09', N'Nam', N'454 Thanh Ton, Quan 5, TP HN', '0911225123';)
 -- Add data vào bảng BacSi
-    - (N'Dr. Pham Hoa', zN'Tai mui hong', '0999888777')
-    - (N'Dr. Nguyen Van C', N'Răng hàm mặt', '0888777666')
+   - (N'Dr. Pham Hoa', zN'Tai mui hong', '0999888777')
+   - (N'Dr. Nguyen Van C', N'Răng hàm mặt', '0888777666')
 -- Add data vào bảng PhongKham
-    - (N'Phong kham 101')
-    - (N'Phòng khám 102')
-    - (N'Phòng khám 103')
+   - (N'Phong kham 101')
+   - (N'Phòng khám 102')
+   - (N'Phòng khám 103')
 -- Add data vào bảng LichSuKham
-    - (@MaBenhNhan'2024-06-19', N'Đau đầu, sốt cao', N'Cảm cúm')
-    - (@MaBenhNhan = 2, '2024-06-20', N'Đau bụng và buồn nôn', N'Viêm dạ dày')
+   - (@MaBenhNhan'2024-06-19', N'Đau đầu, sốt cao', N'Cảm cúm')
+   - (@MaBenhNhan = 2, '2024-06-20', N'Đau bụng và buồn nôn', N'Viêm dạ dày')
 -- Add data vào bảng LichHen
-    - (@MaBenhNhan, @MaBacSi, @MaPhong, 2024-06-21', '12:00:00')
-    - (@MaBenhNhan , @MaBacSi, @MaPhong, '2024-06-22', '14:30:00')
+   - (@MaBenhNhan, @MaBacSi, @MaPhong, 2024-06-21', '12:00:00')
+   - (@MaBenhNhan , @MaBacSi, @MaPhong, '2024-06-22', '14:30:00')
 
 ## Các chức năng 
 - Quản Lý Bệnh nhân
