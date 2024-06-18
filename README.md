@@ -1,11 +1,11 @@
 # Thông tin cá nhân
-Họ và Tên: Nguyễn Văn Hải
-MSSV: K215480106073
-Lớp: K57KMT
-Môn học: Hệ quản trị cơ sở dữ liệu
+- Họ và Tên: Nguyễn Văn Hải
+- MSSV: K215480106073
+- Lớp: K57KMT
+- Môn học: Hệ quản trị cơ sở dữ liệu
 
 ## Quản lý khám bệnh tại bệnh viện
-Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ bệnh án, và thông tin bác sĩ tại bệnh viện, hỗ trợ việc tra cứu và báo cáo thông tin, giúp cải thiện công tác khám chữa bệnh và theo dõi tình trạng sức khỏe của bệnh nhân.
+- Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ bệnh án, và thông tin bác sĩ tại bệnh viện, hỗ trợ việc tra cứu và báo cáo thông tin, giúp cải thiện công tác khám chữa bệnh và theo dõi tình trạng sức khỏe của bệnh nhân.
 
 ### Những chức năng xây dựng quản lý khám bệnh:
 1. Thêm, sửa, xóa bệnh nhân, bác sĩ, phòng khám, lịch hẹn
