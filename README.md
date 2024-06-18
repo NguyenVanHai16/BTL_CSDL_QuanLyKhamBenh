@@ -56,12 +56,20 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
 
 1. Bảng bệnh nhân
 - Tạo bảng BenhNhan
-- (
-    - MaBenhNhan INT PRIMARY KEY IDENTITY(1,1),
-    - HoTen NVARCHAR(100),
-    - NgaySinh DATE,
-    - GioiTinh NVARCHAR(10),
-    - DiaChi NVARCHAR(200),
-    - SoDienThoai NVARCHAR(15)
-- )
+- ![image](https://github.com/NguyenVanHai16/BTL_CSDL_QuanLyKhamBenh/assets/168853303/9dd63f49-a8bf-4c42-8bf1-10db5cbab248)
 
+2. Bảng Bác sĩ
+- Tạo bảng BacSi
+- ![image](https://github.com/hoadain/demo-git/assets/168853303/cdfddc6d-4988-4f2f-8233-3066555c4f58)
+
+3. Bảng phòng khám
+- Tạo bảng PhongKham
+- ![image](https://github.com/hoadain/demo-git/assets/168853303/4438bcd0-cf9d-455c-9a92-fabace60c956)
+
+4. Bảng lịch sử khám
+- Tạo bảng LichSuKham
+- ![image](https://github.com/hoadain/demo-git/assets/168853303/b99b818e-91b5-4851-9361-dcd6a0ea612b)
+
+5. Bảng lịch hẹn
+- Tạo bảng LichHen
+- ![image](https://github.com/hoadain/demo-git/assets/168853303/db855978-32cb-40fa-abcf-25ec612dac86)
