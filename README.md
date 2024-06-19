@@ -116,7 +116,9 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
    - MaPhong🔑: khóa ngoại (FOREIGN KEY) tham chiếu MaPhong của bảng PhongKham. Điều này thiết lập mối liên hệ giữa các bảng và cho phép truy cập thông tin.
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/db855978-32cb-40fa-abcf-25ec612dac86)
 6. Sơ đồ liên kết
+
 ## Thêm dữ liệu vào bảng
+
 - Add data vào bảng BenhNhan
    - (N'Tran Thi A', '1982-03-03', N'Nu', N'486 Le Thanh Ton, Quan 3, TP HN','0911225436')
    - (N'Nguyen Van B', '1982-07-04', N'Nam', N'653 Le Thanh , Quan 7, TP HN', '0911225763')
@@ -136,6 +138,7 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
    - (@MaBenhNhan , @MaBacSi, @MaPhong, '2024-06-22', '14:30:00')
 
 ## Các chức năng 
+
 - Quản Lý bệnh nhân
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/5536873d-230a-413a-b70b-3173a414c74e)
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/2ae7a1c2-22ba-4012-a752-41e205ed796c)
@@ -153,4 +156,30 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
 
 - Quản lý lịch sử khám bệnh
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/1c49de35-b5b6-4f75-a1c2-84d84a1ad716)
+
+- Quản lý lịch hẹn khám bệnh
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/3287457a-8b50-4798-b57b-33df711210de)
+
+## Chức năng nâng cao
+
+1. Sử dụng Trigger
+   - Tự động cập nhật số lượng bệnh nhân trong phòng khám khi xóa lịch hẹn
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/db956013-dfc8-4557-942d-2f2529c790a3)
+
+2. Sử dụng cursor
+   - gửi thông báo nhắc nhở bệnh nhân khi tới ngày hẹn khám bệnh
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/5886389d-4934-40bc-ba8f-258c479f5cf4)
+
+## Tìm kiếm và hiển thị thông tin
+   - Hiển thị view bệnh nhân
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/9812c452-873a-4ad6-a22b-ff81f7b36ce5)
+   - Hiển thị view bác sĩ
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/988fdd23-0a7e-42ba-b74c-345063144dcc)
+   - Hiển thị view phòng khám
+   - 
+   -  Hiển thị view lịch sử khám bệnh
+   -  
+   -   Hiển thị view lịch hẹn
+   -   
+
 
