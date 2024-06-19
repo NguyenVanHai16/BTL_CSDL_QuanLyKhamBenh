@@ -9,7 +9,7 @@
 
 ### Những chức năng xây dựng quản lý khám bệnh
 1. Quản lý
-1.1.Quản Lý Bệnh nhân
+1.1. Quản Lý Bệnh nhân
 
    - Thêm danh sách bệnh nhân: Cho phép thêm mới một bệnh nhân mới vào cơ sở dữ liệu
    - Chỉnh sửa thông tin bệnh nhân: Cho phép chỉnh sửa thông tin của một bệnh nhân đã tồn tại
