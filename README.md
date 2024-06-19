@@ -116,7 +116,8 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
    - MaPhong🔑: khóa ngoại (FOREIGN KEY) tham chiếu MaPhong của bảng PhongKham. Điều này thiết lập mối liên hệ giữa các bảng và cho phép truy cập thông tin.
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/db855978-32cb-40fa-abcf-25ec612dac86)
 6. Sơ đồ liên kết
-
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/144a9a00-808c-46e7-85ae-95f98a00aa4b)
+     
 ## Thêm dữ liệu vào bảng
 
 - Add data vào bảng BenhNhan
