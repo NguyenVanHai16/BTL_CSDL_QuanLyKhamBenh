@@ -173,13 +173,17 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
 ## Tìm kiếm và hiển thị thông tin
    - Hiển thị view bệnh nhân
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/9812c452-873a-4ad6-a22b-ff81f7b36ce5)
+     
    - Hiển thị view bác sĩ
    - ![image](https://github.com/hoadain/demo-git/assets/168853303/988fdd23-0a7e-42ba-b74c-345063144dcc)
+     
    - Hiển thị view phòng khám
-   - 
-   -  Hiển thị view lịch sử khám bệnh
-   -  
-   -   Hiển thị view lịch hẹn
-   -   
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/584a9fa9-9c0c-406d-b186-0f2bd47d3775)
+     
+   - Hiển thị view lịch sử khám bệnh
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/6fbd414a-384d-493c-b2ab-9e5e5bd5c703)
+     
+   - Hiển thị view lịch hẹn
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/b736ea5c-0fa1-4505-b6c6-1013b25a1ea0)
 
 
