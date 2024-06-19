@@ -122,7 +122,7 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
    - (N'Nguyen Van B', '1982-07-04', N'Nam', N'653 Le Thanh , Quan 7, TP HN', '0911225763')
    - (N'Nguyen van C', '1982-03-09', N'Nam', N'454 Thanh Ton, Quan 5, TP HN', '0911225123';)
 - Add data vào bảng BacSi
-   - (N'Dr. Pham Hoa', zN'Tai mui hong', '0999888777')
+   - (N'MR. Pham Hoa', zN'Tai mui hong', '0999888777')
    - (N'Dr. Nguyen Van C', N'Răng hàm mặt', '0888777666')
 - Add data vào bảng PhongKham
    - (N'Phong kham 101')
@@ -136,9 +136,21 @@ Mô tả bài toán quản lý: Quản lý thông tin bệnh nhân, hồ sơ b�
    - (@MaBenhNhan , @MaBacSi, @MaPhong, '2024-06-22', '14:30:00')
 
 ## Các chức năng 
-- Quản Lý Bệnh nhân
-  - ![image](https://github.com/hoadain/demo-git/assets/168853303/5536873d-230a-413a-b70b-3173a414c74e)
-  - ![image](https://github.com/hoadain/demo-git/assets/168853303/2ae7a1c2-22ba-4012-a752-41e205ed796c)
-  - ![image](https://github.com/hoadain/demo-git/assets/168853303/09843e0a-0e9e-4c6e-acc9-dac48b316497)
+- Quản Lý bệnh nhân
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/5536873d-230a-413a-b70b-3173a414c74e)
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/2ae7a1c2-22ba-4012-a752-41e205ed796c)
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/09843e0a-0e9e-4c6e-acc9-dac48b316497)
 
 - Quản lý bác sĩ
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/401dbaf0-40ca-4dac-85a3-744634201a9e)
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/7b2b56ff-1ad8-4422-8d5e-e2d9d7628332)
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/272c036e-6fc0-445b-92d2-bb2609e85d96)
+
+- Quản lý phòng khám
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/6f978bf0-1762-40b8-9355-783570dd61e6)
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/96bb89c1-0ebb-4354-9c12-049c0527956e)
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/78db82e5-0377-4864-a7cc-51e3a339af0d)
+
+- Quản lý lịch sử khám bệnh
+   - ![image](https://github.com/hoadain/demo-git/assets/168853303/1c49de35-b5b6-4f75-a1c2-84d84a1ad716)
+
